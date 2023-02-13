@@ -30,3 +30,12 @@ Screenshots:
 ![Screenshot (155)](https://user-images.githubusercontent.com/124521963/218493804-8199950f-eb00-4884-bf25-a5df4ef8a358.png)
 ![Screenshot (156)](https://user-images.githubusercontent.com/124521963/218493829-f255933b-7112-4e2b-9d38-b0ad0f84fd42.png)
 ![Screenshot (157)](https://user-images.githubusercontent.com/124521963/218493875-98975c6b-cb6b-4981-adc4-fcd78610655a.png)
+
+
+
+Tech Stack:
+>Azure(Hosting)
+>HTML
+>CSS
+>Bootstrap
+>JavaScript
